@@ -26,7 +26,7 @@ enableRobotsTXT = true
   <div>
     <p class=\"hero-title\">Assistant Professor of Political Science,<br>Aarhus University</p>
     <p>I study how citizens participate in politics and the factors that shape their ability to do so. My work focuses on education and democratic competence, as well as tools and interventions aimed at improving political participation.</p>
-    <p class=\"hero-contact\">Email: <a href=\"mailto:avj@ps.au.dk\">avj@ps.au.dk</a></p>
+    <p class=\"hero-contact\">Email: avj [at] ps.au.dk</p>
   </div>
   <img class=\"hero-photo\" src=\"/img/profile.jpg\" alt=\"Andreas Videbæk Jensen\">
 </div>

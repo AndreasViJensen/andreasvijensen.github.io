@@ -2,4 +2,4 @@
 title: "Contact"
 ---
 
-Email: avj@ps.au.dk
+Email: avj [at] ps.au.dk
