@@ -1,0 +1,60 @@
+baseURL = "https://andreasvijensen.github.io/"
+languageCode = "en-us"
+title = "Andreas Videbæk Jensen"
+theme = "PaperMod"
+enableRobotsTXT = true
+
+[params]
+  description = "Assistant Professor of Political Science"
+  author = "Andreas Videbæk Jensen"
+  defaultTheme = "auto"
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = false
+  ShowBreadCrumbs = false
+  ShowCodeCopyButtons = true
+  showToc = false
+
+  [params.profileMode]
+    enabled = true
+    title = "Andreas Videbæk Jensen"
+    subtitle = "Assistant Professor of Political Science"
+    imageUrl = ""
+    imageTitle = ""
+    buttons = [
+      { name = "Research", url = "/research/" },
+      { name = "Teaching", url = "/teaching/" },
+      { name = "CV", url = "/cv/" },
+      { name = "Contact", url = "/contact/" }
+    ]
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "research"
+    name = "Research"
+    url = "/research/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "teaching"
+    name = "Teaching"
+    url = "/teaching/"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "cv"
+    name = "CV"
+    url = "/cv/"
+    weight = 40
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 50

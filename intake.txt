@@ -1,0 +1,13 @@
+Please add your details below.
+
+- Full name:
+- Title/Position:
+- Affiliation/Department:
+- Research interests (bullet list):
+- Current projects (bullet list):
+- Teaching (courses + terms):
+- Contact info (email, office, phone if desired):
+- Links (Google Scholar, ORCID, personal profiles):
+- CV file path (if available):
+- Publications file path (if available):
+- Other materials:
