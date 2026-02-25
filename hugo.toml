@@ -57,6 +57,18 @@ enableRobotsTXT = true
 </div>
 """
 
+  [[params.socialIcons]]
+    name = "googlescholar"
+    url = "https://scholar.google.com/citations?user=_F2zfOwAAAAJ&hl=en&oi=ao"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/andreas-videbæk-jensen-53371b17b"
+
+  [[params.socialIcons]]
+    name = "x"
+    url = "https://x.com/AndreasViJensen"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
