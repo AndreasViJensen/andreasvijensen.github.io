@@ -2,11 +2,13 @@
 
 :root {
   --main-width: 900px;
-  --site-bg: #fffefb;
+  --site-bg: #ffffff;
   --card-bg: #fff7e6;
   --card-border: #f6e2b8;
   --panel: #fff7e6;
   --panel-border: #f6e2b8;
+  --selected-box: #fffefb;
+  --selected-border: #ede8dc;
 }
 
 html,
@@ -128,8 +130,8 @@ body {
 }
 
 .home-papers .paper-card {
-  background: #ffffff;
-  border-color: #e5e7eb;
+  background: var(--selected-box);
+  border-color: var(--selected-border);
 }
 
 .paper-title {
