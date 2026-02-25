@@ -114,6 +114,11 @@ body {
   padding: 1rem 1.1rem;
 }
 
+.home-papers .paper-card {
+  background: #ffffff;
+  border-color: #e5e7eb;
+}
+
 .paper-title {
   font-weight: 700;
   font-size: 1.1rem;
