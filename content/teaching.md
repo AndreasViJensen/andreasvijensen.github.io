@@ -2,19 +2,21 @@
 title: "Teaching"
 ---
 
-**Signature seminars**
+I teach across the MA and BA programs, combining substantive political behavior with rigorous research design and quantitative methods.
 
-**Education and Political Behavior (MA seminar)**
-A research‑driven seminar on how education shapes participation, attitudes, and inequality. We connect theory with causal designs and evaluate education policies through empirical evidence.
+**MA seminars**
 
-**Causal Inference (MA seminar)**
-A methods seminar focused on identification, design, and interpretation. Students learn how to assess causal claims and build research designs for political science questions.
+**Education and Political Behavior** — How education shapes participation, attitudes, and inequality; emphasis on causal identification and policy evaluation.
 
-**Additional teaching**
+**Causal Inference** — Identification strategies, research design, and the interpretation of causal claims in political science.
 
-- **Methods II: Quantitative Methods (BA)** — Core training in regression, statistical inference, and applied quantitative analysis.
-- **Political Behaviour and Representation (BA)** — Theories and evidence on attitudes, participation, representation, and political mobilization.
-- **The Role of Skills in Social Behavior (BA, 5th semester)** — How cognitive and non‑cognitive skills shape social and political outcomes.
+**BA courses**
+
+**Methods II: Quantitative Methods** — Core training in regression, statistical inference, and applied quantitative analysis.
+
+**Political Behaviour and Representation** — Theories and evidence on attitudes, participation, representation, and political mobilization.
+
+**The Role of Skills in Social Behavior (5th semester)** — How cognitive and non‑cognitive skills shape social and political outcomes.
 
 **Thesis supervision (selected topics)**
 
