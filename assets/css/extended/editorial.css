@@ -2,7 +2,7 @@
 
 :root {
   --main-width: 900px;
-  --site-bg: #ffffff;
+  --site-bg: #f9fafb;
   --card-bg: #fff7e6;
   --card-border: #f6e2b8;
   --panel: #fff7e6;
@@ -145,6 +145,11 @@ body {
   display: block;
   text-decoration: none;
   color: inherit;
+  box-shadow: none !important;
+}
+
+.paper-ref-link * {
+  text-decoration: none !important;
 }
 
 .paper-ref-link:hover .paper-card {
@@ -161,6 +166,15 @@ body {
   font-size: 1.1rem;
   margin-bottom: 0.25rem;
   color: #111827;
+}
+
+.paper-title a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.paper-title a:hover {
+  text-decoration: underline;
 }
 
 .paper-meta {
@@ -240,13 +254,4 @@ body {
     justify-self: start;
     max-width: 280px;
   }
-}
-
-
-.paper-ref-link {
-  box-shadow: none !important;
-}
-
-.paper-ref-link * {
-  text-decoration: none !important;
 }
