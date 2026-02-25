@@ -254,6 +254,25 @@ body {
   font-size: 0.9rem;
 }
 
+.paper-links {
+  margin-top: 0.5rem;
+}
+
+.paper-links a {
+  display: inline-block;
+  padding: 0.25rem 0.6rem;
+  border: 1px solid #d1d5db;
+  border-radius: 999px;
+  background: #ffffff;
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+.home-papers .paper-links a {
+  border-color: #d6c08b;
+  background: #fff7e3;
+}
+
 .nav a {
   font-weight: 600;
 }
