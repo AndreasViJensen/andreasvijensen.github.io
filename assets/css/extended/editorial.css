@@ -81,8 +81,9 @@ body {
 
 .hero-photo {
   width: 100%;
-  max-width: 400px;
-  height: 400px;
+  max-width: 360px;
+  height: auto;
+  aspect-ratio: 1 / 1;
   object-fit: cover;
   border-radius: 18px;
   box-shadow: 0 12px 28px rgba(0, 0, 0, 0.18);
@@ -97,13 +98,6 @@ body {
 
 .hero-contact {
   margin-top: 0.75rem;
-}
-
-.hero-name {
-  font-size: 2.4rem;
-  font-weight: 700;
-  margin: 0 0 0.4rem 0;
-  white-space: nowrap;
 }
 
 .home-papers {
@@ -217,11 +211,6 @@ body {
 
   .hero-photo {
     justify-self: start;
-    height: 280px;
     max-width: 280px;
-  }
-
-  .hero-name {
-    white-space: normal;
   }
 }
