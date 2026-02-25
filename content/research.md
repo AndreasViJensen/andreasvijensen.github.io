@@ -18,7 +18,7 @@ title: "Research"
 
   <div class="paper-card">
     <div class="paper-title">How Education Increases Political Participation: Voter Turnout, Peer Exposure and Resource Accumulation Across College Fields of Study</div>
-    <div class="paper-meta"><strong>Paper (accepted)</strong> · <em>Journal of Politics</em></div>
+    <div class="paper-meta"><strong>Paper (conditionally accepted)</strong> · <em>Journal of Politics</em></div>
     <div class="paper-abstract"><details><summary>Abstract</summary><p>Studies how field of study shapes political participation, focusing on turnout, peer exposure, and the accumulation of resources across college environments.</p></details></div>
     <div class="paper-links">Links: PDF (add) • DOI (add)</div>
   </div>
@@ -43,7 +43,7 @@ title: "Research"
 
   <div class="paper-card">
     <div class="paper-title">How Education Increases Political Participation: Voter Turnout, Peer Exposure and Resource Accumulation Across College Fields of Study</div>
-    <div class="paper-meta"><strong>Paper (accepted)</strong> · <em>Journal of Politics</em></div>
+    <div class="paper-meta"><strong>Paper (conditionally accepted)</strong> · <em>Journal of Politics</em></div>
     <div class="paper-abstract"><details><summary>Abstract</summary><p>Studies how field of study shapes political participation, focusing on turnout, peer exposure, and the accumulation of resources across college environments.</p></details></div>
     <div class="paper-links">Links: PDF (add) • DOI (add)</div>
   </div>
