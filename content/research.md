@@ -18,17 +18,19 @@ title: "Research"
     <div class="paper-abstract"><details><summary>Abstract</summary><p>Studies how field of study shapes political participation, focusing on turnout, peer exposure, and the accumulation of resources across college environments.</p></details></div>
   </div>
 
-  <div class="paper-card" id="edu-diss">
-    <div class="paper-title">Education and Voting: Explaining Differences in Electoral Participation</div>
-    <div class="paper-meta"><strong>Dissertation (published)</strong> · Aarhus University (2024)</div>
-    <div class="paper-abstract"><details><summary>Abstract</summary><p>Examines why lower‑educated citizens vote less, tests multiple mechanisms (including field of study and peer exposure), and studies how interventions can affect participation gaps.</p></details></div>
-    <div class="paper-links">Links: <a href="https://pure.au.dk/portal/en/publications/education-and-voting-explaining-differences-in-electoral-particip/">Record</a> • <a href="https://politica.dk/politicas-phd-serie/andreas-videbaek-jensen">Publisher page</a></div>
-  </div>
+  
 
   <div class="paper-card" id="edu-conjoint">
     <div class="paper-title">Candidate Education and Voting Preferences: How Voters Prefer Politicians Who Share Their Educational Background</div>
     <div class="paper-meta"><strong>Working paper</strong> · with Mathias Kruse</div>
     <div class="paper-abstract"><details><summary>Abstract</summary><p>We fielded four large-scale survey experiments in Denmark, the UK, and Germany to test whether voters favor candidates with similar educational backgrounds. We find same-group preferences among both higher- and lower-educated voters, partly driven by perceived competence, warmth, and policy appeal.</p></details></div>
+  </div>
+
+<div class="paper-card" id="edu-diss">
+    <div class="paper-title">Education and Voting: Explaining Differences in Electoral Participation</div>
+    <div class="paper-meta"><strong>Dissertation (published)</strong> · Aarhus University (2024)</div>
+    <div class="paper-abstract"><details><summary>Abstract</summary><p>Examines why lower‑educated citizens vote less, tests multiple mechanisms (including field of study and peer exposure), and studies how interventions can affect participation gaps.</p></details></div>
+    <div class="paper-links">Links: <a href="https://pure.au.dk/portal/en/publications/education-and-voting-explaining-differences-in-electoral-particip/">Record</a> • <a href="https://politica.dk/politicas-phd-serie/andreas-videbaek-jensen">Publisher page</a></div>
   </div>
 </div>
 
