@@ -16,7 +16,7 @@ I teach across the MA and BA programs, combining substantive political behavior 
 
 **Political Behaviour and Representation** — Theories and evidence on attitudes, participation, representation, and political mobilization.
 
-**The Role of Skills in Social Behavior (5th semester)** — How cognitive and non‑cognitive skills shape social and political outcomes.
+**The Role of Skills in Behavioral Political Science (5th semester)** — How cognitive and non‑cognitive skills shape social and political outcomes.
 
 **Thesis supervision (selected topics)**
 

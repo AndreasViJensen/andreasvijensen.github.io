@@ -261,3 +261,26 @@ body {
   display: inline-block;
   margin-bottom: 0.15rem;
 }
+
+/* Teaching page emphasis */
+.page-content h2 {
+  border-bottom: 1px solid #e5e7eb;
+  padding-bottom: 0.3rem;
+}
+
+.page-content h2::after {
+  content: "";
+  display: block;
+  width: 36px;
+  height: 3px;
+  background: #111827;
+  margin-top: 0.4rem;
+}
+
+.page-content strong {
+  font-weight: 700;
+}
+
+.page-content ul {
+  margin-top: 0.4rem;
+}
