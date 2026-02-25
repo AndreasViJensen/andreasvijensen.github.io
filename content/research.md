@@ -61,9 +61,9 @@ title: "Research"
   </div>
 
   <div class="paper-card">
-    <div class="paper-title">OSF Preprint (title pending)</div>
-    <div class="paper-meta">Working paper (OSF)</div>
-    <div class="paper-abstract"><strong>Abstract (short):</strong> Abstract pending — please provide title and abstract (OSF page requires JS, so I can’t extract it here).</div>
-    <div class="paper-links">Links: <a href="https://osf.io/preprints/osf/5w9t7_v1">OSF</a></div>
+    <div class="paper-title">Policy or Polity? Experimental Evidence on Voters’ Information Priorities in European Parliament Elections</div>
+    <div class="paper-meta">Working paper (OSF preprint, v2)</div>
+    <div class="paper-abstract"><strong>Abstract (short):</strong> Uses field experimental data from two voting advice applications during the 2024 EP election and a survey experiment to test what information voters prioritize. Under accurate information about EP powers, citizens prioritize policy over polity information, with implications for representation, media, and political communication.</div>
+    <div class="paper-links">Links: <a href="https://osf.io/preprints/osf/5w9t7_v2">OSF</a></div>
   </div>
 </div>
