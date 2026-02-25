@@ -198,11 +198,12 @@ body {
 
 .home-papers .paper-links a {
   display: inline-block;
-  padding: 0.3rem 0.6rem;
+  padding: 0.2rem 0.45rem;
   border: 1px solid #d1d5db;
-  border-radius: 999px;
+  border-radius: 6px;
   background: #ffffff;
   font-weight: 600;
+  font-size: 0.85rem;
 }
 
 .nav a {
