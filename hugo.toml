@@ -19,8 +19,8 @@ enableRobotsTXT = true
     enabled = true
     title = "Andreas Videbæk Jensen"
     subtitle = "Assistant Professor of Political Science"
-    imageUrl = ""
-    imageTitle = ""
+    imageUrl = "/img/profile.jpg"
+    imageTitle = "Andreas Videbæk Jensen"
     buttons = [
       { name = "Research", url = "/research/" },
       { name = "Teaching", url = "/teaching/" },
