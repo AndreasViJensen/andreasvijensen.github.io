@@ -3,3 +3,9 @@
 /.hugo_build.lock
 .DS_Store
 input_avj/
+STATUS_LOG.txt
+alt_site_magazine/
+alt_site_single/
+alt_site_two_column/
+preview_option1/
+preview_option5/
