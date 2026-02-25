@@ -83,7 +83,7 @@ enableRobotsTXT = true
 
   [[menu.main]]
     identifier = "media"
-    name = "Medier"
+    name = "Medier (Dansk)"
     url = "/media/"
     weight = 35
 
