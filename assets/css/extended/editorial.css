@@ -234,3 +234,13 @@ body {
     max-width: 280px;
   }
 }
+
+.paper-ref-link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+.paper-ref-link:hover .paper-card {
+  border-color: #e2c891;
+}

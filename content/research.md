@@ -47,20 +47,26 @@ title: "Research"
     <div class="paper-abstract"><details><summary>Abstract</summary><p>Evaluates interventions that encourage political voice and assesses their heterogeneous effects on voter turnout.</p></details></div>
   </div>
 
-  <div class="paper-card paper-ref">
-    <div class="paper-title"><a href="#edu-bjps">Educating for Democracy? Going to College Increases Political Participation</a></div>
-    <div class="paper-meta">See full entry in Education</div>
-  </div>
+  <a class="paper-ref-link" href="#edu-bjps">
+    <div class="paper-card paper-ref">
+      <div class="paper-title">Educating for Democracy? Going to College Increases Political Participation</div>
+      <div class="paper-meta">See full entry in Education →</div>
+    </div>
+  </a>
 
-  <div class="paper-card paper-ref">
-    <div class="paper-title"><a href="#edu-jop">How Education Increases Political Participation: Voter Turnout, Peer Exposure and Resource Accumulation Across College Fields of Study</a></div>
-    <div class="paper-meta">See full entry in Education</div>
-  </div>
+  <a class="paper-ref-link" href="#edu-jop">
+    <div class="paper-card paper-ref">
+      <div class="paper-title">How Education Increases Political Participation: Voter Turnout, Peer Exposure and Resource Accumulation Across College Fields of Study</div>
+      <div class="paper-meta">See full entry in Education →</div>
+    </div>
+  </a>
 
-  <div class="paper-card paper-ref">
-    <div class="paper-title"><a href="#edu-diss">Education and Voting: Explaining Differences in Electoral Participation</a></div>
-    <div class="paper-meta">See full entry in Education</div>
-  </div>
+  <a class="paper-ref-link" href="#edu-diss">
+    <div class="paper-card paper-ref">
+      <div class="paper-title">Education and Voting: Explaining Differences in Electoral Participation</div>
+      <div class="paper-meta">See full entry in Education →</div>
+    </div>
+  </a>
 </div>
 
 ## Voting Advice Applications
