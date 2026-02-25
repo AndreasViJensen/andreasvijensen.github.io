@@ -69,7 +69,7 @@ body {
 
 .hero-mag {
   display: grid;
-  grid-template-columns: 1.1fr 0.9fr;
+  grid-template-columns: 1.2fr 0.8fr;
   gap: 2rem;
   align-items: center;
   padding: 1.6rem;
@@ -103,6 +103,7 @@ body {
   font-size: 2.4rem;
   font-weight: 700;
   margin: 0 0 0.4rem 0;
+  white-space: nowrap;
 }
 
 .home-papers {
@@ -155,6 +156,7 @@ body {
 
 .home-papers .paper-meta {
   color: #111827;
+  font-weight: 400;
 }
 
 .paper-abstract {
@@ -194,6 +196,15 @@ body {
   font-weight: 600;
 }
 
+.home-papers .paper-links a {
+  display: inline-block;
+  padding: 0.3rem 0.6rem;
+  border: 1px solid #d1d5db;
+  border-radius: 999px;
+  background: #ffffff;
+  font-weight: 600;
+}
+
 .nav a {
   font-weight: 600;
 }
@@ -207,5 +218,9 @@ body {
     justify-self: start;
     height: 260px;
     max-width: 260px;
+  }
+
+  .hero-name {
+    white-space: normal;
   }
 }
