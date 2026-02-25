@@ -14,21 +14,21 @@ title: "Research"
   <div class="paper-card">
     <div class="paper-title">Educating for Democracy? Going to College Increases Political Participation</div>
     <div class="paper-meta"><em>British Journal of Political Science</em>, 55, e1 (2025)</div>
-    <div class="paper-abstract"><strong>Abstract (short):</strong> Using two large panel datasets of young US voters and a difference-in-differences design, this paper estimates the effect of college attendance on voter turnout and argues that the evidence supports a positive causal effect.</div>
+    <div class="paper-abstract"><strong>Abstract (short):</strong> Uses two large panel datasets of young U.S. voters and a difference‑in‑differences design to estimate the effect of college attendance on turnout, arguing that the evidence supports a substantive positive effect and helps reconcile earlier uncertain estimates.</div>
     <div class="paper-links">Links: <a href="https://doi.org/10.1017/S0007123424000486">DOI</a> • <a href="https://www.cambridge.org/core/journals/british-journal-of-political-science/article/educating-for-democracy-going-to-college-increases-political-participation/715EA5555038E5DF1F76B1E9AECA10E2">Journal page</a></div>
   </div>
 
   <div class="paper-card">
     <div class="paper-title">Exploring Their Options? Tracking How Voters Actually Use Voting Advice Applications</div>
     <div class="paper-meta">Jensen, Isotalo, & Tromborg (2026), <em>Politics and Governance</em>, 14</div>
-    <div class="paper-abstract"><strong>Abstract (short):</strong> Abstract pending — please provide the official abstract text to include here.</div>
-    <div class="paper-links">Links: <a href="https://pure.au.dk/portal/da/publications/exploring-their-options-tracking-how-voters-actually-use-voting-a/">Record</a></div>
+    <div class="paper-abstract"><strong>Abstract (short):</strong> Tracks objective usage of a Danish online voting advice application to study how users explore party options. Finds most focus on their preferred party, but many explore alternatives; exploration varies by vote‑choice certainty and political interest.</div>
+    <div class="paper-links">Links: <a href="https://doi.org/10.17645/pag.11277">DOI</a> • <a href="https://www.cogitatiopress.com/politicsandgovernance/article/view/11277">Journal page</a></div>
   </div>
 
   <div class="paper-card">
     <div class="paper-title">Education and Voting: Explaining Differences in Electoral Participation</div>
     <div class="paper-meta">PhD dissertation (Aarhus University, 2024)</div>
-    <div class="paper-abstract"><strong>Abstract (short):</strong> Examines why lower-educated citizens participate less in elections and evaluates education’s role in sustaining democratic participation using multiple empirical approaches.</div>
+    <div class="paper-abstract"><strong>Abstract (short):</strong> Examines why lower‑educated citizens vote less, tests multiple mechanisms (including field of study and peer exposure), and studies how interventions can affect participation gaps.</div>
     <div class="paper-links">Links: <a href="https://pure.au.dk/portal/en/publications/education-and-voting-explaining-differences-in-electoral-particip/">Record</a> • <a href="https://politica.dk/politicas-phd-serie/andreas-videbaek-jensen">Publisher page</a></div>
   </div>
 
