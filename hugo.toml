@@ -19,10 +19,11 @@ enableRobotsTXT = true
     enabled = false
 
   [params.homeInfoParams]
-    Title = "Andreas Videbæk Jensen"
+    Title = ""
     Content = """
 <div class=\"hero-mag\">
   <div>
+    <h1 class=\"hero-name\">Andreas Videbæk Jensen</h1>
     <p class=\"hero-title\">Assistant Professor of Political Science, Aarhus University</p>
     <p>I study how citizens participate in politics and the factors that shape their ability to do so. My work focuses on education and democratic competence, as well as tools and interventions aimed at improving political participation.</p>
     <p class=\"hero-contact\">Email: <a href=\"mailto:avj@ps.au.dk\">avj@ps.au.dk</a></p>
@@ -31,7 +32,7 @@ enableRobotsTXT = true
 </div>
 
 <div class=\"home-papers\">
-  <h2><a href="/research/">Selected Papers</a></h2>
+  <h2><a href=\"/research/\">Selected Papers</a></h2>
   <div class=\"paper-grid\">
     <div class=\"paper-card\">
       <div class=\"paper-title\">Educating for Democracy? Going to College Increases Political Participation</div>
