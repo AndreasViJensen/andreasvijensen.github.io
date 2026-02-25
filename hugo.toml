@@ -31,7 +31,7 @@ enableRobotsTXT = true
 </div>
 
 <div class=\"home-papers\">
-  <h2>Selected Papers</h2>
+  <h2><a href="/research/">Selected Papers</a></h2>
   <div class=\"paper-grid\">
     <div class=\"paper-card\">
       <div class=\"paper-title\">Educating for Democracy? Going to College Increases Political Participation</div>

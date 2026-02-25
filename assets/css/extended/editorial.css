@@ -178,3 +178,7 @@ body {
     max-width: 260px;
   }
 }
+
+.home-papers .paper-meta {
+  color: #111827;
+}
