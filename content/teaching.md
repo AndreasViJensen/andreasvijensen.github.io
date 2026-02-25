@@ -4,11 +4,11 @@ title: "Teaching"
 
 **Selected teaching**
 
-- MA seminar: Uddannelse og politisk adfærd
+- MA seminar: Education and Political Behavior
 - MA seminar: Causal Inference
-- Lecture: Methods II
+- Methods II (Lectures)
 - BA 5th semester: The Role of Skills in Social Behavior
-- Classes: Political Behaviour and Representation
+- Political Behaviour and Representation (Classes)
 
 **Supervision**
 

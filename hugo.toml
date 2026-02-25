@@ -16,25 +16,19 @@ enableRobotsTXT = true
   showToc = false
 
   [params.profileMode]
-    enabled = true
-    title = "Andreas Videbæk Jensen"
-    subtitle = "Assistant Professor of Political Science"
-    imageUrl = "/img/profile.jpg"
-    imageTitle = "Andreas Videbæk Jensen"
-    buttons = [
-      { name = "Research", url = "/research/" },
-      { name = "Teaching", url = "/teaching/" },
-      { name = "CV", url = "/cv/" },
-      { name = "Contact", url = "/contact/" }
-    ]
+    enabled = false
+
+  [params.homeInfoParams]
+    Title = "Andreas Videbæk Jensen"
+    Content = """
+<img class=\"home-photo\" src=\"/img/profile.jpg\" alt=\"Andreas Videbæk Jensen\">
+
+Assistant Professor of Political Science at Aarhus University. My research examines how education shapes political participation and democratic attitudes, using quantitative methods and computational tools.
+
+Email: <a href=\"mailto:avj@ps.au.dk\">avj@ps.au.dk</a>
+"""
 
 [menu]
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 10
-
   [[menu.main]]
     identifier = "research"
     name = "Research"
@@ -52,9 +46,3 @@ enableRobotsTXT = true
     name = "CV"
     url = "/cv/"
     weight = 40
-
-  [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/contact/"
-    weight = 50
