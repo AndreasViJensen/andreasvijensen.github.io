@@ -36,7 +36,7 @@ I teach across the MA and BA programs, combining substantive political behavior 
 
 **Thesis supervision (selected topics)**
 
-<div class="teach-list">
+<div class="teach-list teach-compact">
   <div class="teach-entry">
     <div class="teach-main">Prediction Models for Parliamentary Elections</div>
     <div class="teach-meta">2025</div>

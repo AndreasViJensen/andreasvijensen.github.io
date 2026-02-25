@@ -356,12 +356,21 @@ body {
 }
 
 .teach-main {
-  font-weight: 600;
+  font-weight: 400;
 }
 
 .teach-meta {
   color: #4b5563;
   white-space: nowrap;
+}
+
+.teach-compact {
+  gap: 0.2rem;
+  margin-bottom: 0.9rem;
+}
+
+.teach-compact .teach-entry {
+  padding: 0.2rem 0;
 }
 
 @media (max-width: 720px) {
