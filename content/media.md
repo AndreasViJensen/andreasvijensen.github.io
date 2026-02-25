@@ -22,7 +22,7 @@ Jeg bidrager gerne til den offentlige samtale. Jeg formidler både mine egne for
   </div>
   <div class="paper-card">
     <img class="paper-img" src="/media/radio-iiii.png" alt="Radio IIII valgmorgenshow">
-    <div class="paper-title">Valgforsker i Radio IIII’s valgmorgenshow (US‑valget 2024)</div>
+    <div class="paper-title">Valgforsker i Radio IIII’s valgmorgenshow (det amerikanske præsidentvalg 2024)</div>
     <div class="paper-meta">Analyse af tidlige stemmetal og valgdeltagelse.</div>
     <div class="paper-links"><a href="https://radio4.dk/podcasts/radio4-morgen/onsdag-d-6-november-kl-7-8">Link</a></div>
   </div>
@@ -35,6 +35,6 @@ Jeg bidrager gerne til den offentlige samtale. Jeg formidler både mine egne for
   <div class="paper-card">
     <img class="paper-img" src="/media/presentation-school-journalism.png" alt="Oplæg på DMJ">
     <div class="paper-title">Oplæg om den amerikanske vælger (DMJ, valgaften 2024)</div>
-    <div class="paper-meta">Præsentation om vælgeradfærd i forbindelse med US‑valget.</div>
+    <div class="paper-meta">Præsentation om vælgeradfærd i forbindelse med det amerikanske præsidentvalg.</div>
   </div>
 </div>
