@@ -23,12 +23,29 @@ enableRobotsTXT = true
     Content = """
 <div class=\"hero-mag\">
   <div>
-    <p class=\"eyebrow\">Political Behavior • Education • Participation</p>
     <p class=\"hero-title\">Assistant Professor of Political Science, Aarhus University</p>
     <p>I study how citizens participate in politics and the factors that shape their ability to do so. My work focuses on education and democratic competence, as well as tools and interventions aimed at improving political participation.</p>
     <p class=\"hero-contact\">Email: <a href=\"mailto:avj@ps.au.dk\">avj@ps.au.dk</a></p>
   </div>
   <img class=\"hero-photo\" src=\"/img/profile.jpg\" alt=\"Andreas Videbæk Jensen\">
+</div>
+
+<div class=\"home-papers\">
+  <h2>Selected Papers</h2>
+  <div class=\"paper-grid\">
+    <div class=\"paper-card\">
+      <div class=\"paper-title\">Educating for Democracy? Going to College Increases Political Participation</div>
+      <div class=\"paper-meta\"><strong>Paper (published)</strong> · <em>British Journal of Political Science</em>, 55, e1 (2025)</div>
+    </div>
+    <div class=\"paper-card\">
+      <div class=\"paper-title\">How Education Increases Political Participation: Voter Turnout, Peer Exposure and Resource Accumulation Across College Fields of Study</div>
+      <div class=\"paper-meta\"><strong>Paper (accepted)</strong> · <em>Journal of Politics</em></div>
+    </div>
+    <div class=\"paper-card\">
+      <div class=\"paper-title\">Exploring Their Options? Tracking How Voters Actually Use Voting Advice Applications</div>
+      <div class=\"paper-meta\"><strong>Paper (published)</strong> · <em>Politics and Governance</em> (2026)</div>
+    </div>
+  </div>
 </div>
 """
 

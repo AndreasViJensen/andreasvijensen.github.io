@@ -50,14 +50,6 @@ body {
   line-height: 1.7;
 }
 
-.eyebrow {
-  text-transform: uppercase;
-  letter-spacing: 0.18em;
-  font-size: 0.75rem;
-  color: #c2410c;
-  margin-bottom: 0.5rem;
-}
-
 .hero-mag {
   display: grid;
   grid-template-columns: 1.1fr 0.9fr;
@@ -88,6 +80,15 @@ body {
 
 .hero-contact {
   margin-top: 0.75rem;
+}
+
+.home-papers {
+  margin-top: 2rem;
+}
+
+.home-papers h2 {
+  font-size: 1.6rem;
+  margin-bottom: 0.85rem;
 }
 
 .post-content h2,
