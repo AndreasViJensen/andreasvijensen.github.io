@@ -20,7 +20,7 @@ enableRobotsTXT = true
     enabled = false
 
   [params.homeInfoParams]
-    Title = "About"
+    Title = "Andreas Videbæk Jensen"
     Content = """
 <div class=\"hero-mag\">
   <div>
