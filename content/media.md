@@ -30,7 +30,7 @@ Jeg bidrager gerne til den offentlige samtale. Jeg formidler både mine egne for
     <div class="paper-meta">Formidling af resultater om brugen af kandidattests (25. november 2024).</div>
     <div class="paper-links"><a href="/media/jp-paper-on-vaas.pdf">Link</a></div>
   </div>
-  <div class="paper-card">    <div class="paper-title">Oplæg om den amerikanske vælger (DMJ, valgaften 2024)</div>
+  <div class="paper-card">    <div class="paper-title">Oplæg om den amerikanske vælger (Journalisthøjskolen i Aarhus, valgaften 2024)</div>
 
     <img class="paper-img" src="/media/presentation-school-journalism.png" alt="Oplæg på DMJ">
     <div class="paper-meta">Præsentation om vælgeradfærd i forbindelse med det amerikanske præsidentvalg.</div>
