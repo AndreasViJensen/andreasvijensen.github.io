@@ -339,3 +339,37 @@ body {
   color: #374151;
   margin-top: 0.25rem;
 }
+
+/* Teaching CV-style layout */
+.teach-list {
+  display: grid;
+  gap: 0.4rem;
+  margin: 0.4rem 0 1.2rem 0;
+}
+
+.teach-entry {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.35rem 0;
+  border-bottom: 1px dashed #e5e7eb;
+}
+
+.teach-main {
+  font-weight: 600;
+}
+
+.teach-meta {
+  color: #4b5563;
+  white-space: nowrap;
+}
+
+@media (max-width: 720px) {
+  .teach-entry {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .teach-meta {
+    white-space: normal;
+  }
+}

@@ -4,45 +4,41 @@ title: "Teaching"
 
 I teach across the MA and BA programs, combining substantive political behavior with rigorous research design and quantitative methods.
 
-<div class="teach-grid">
-  <section class="teach-card">
-    <h2>MA seminars</h2>
+**MA seminars**
 
-    <div class="teach-item">
-      <div class="teach-title">Education and Political Behavior</div>
-      <div class="teach-quote">“This seminar asks whether and how education causally shapes political behavior such as turnout and attitudes.”</div>
-    </div>
-
-    <div class="teach-item">
-      <div class="teach-title">Causal Inference</div>
-      <div class="teach-quote">“How can we evaluate causal effects when we do not have access to randomized experiments?”</div>
-    </div>
-
-    <div class="teach-item">
-      <div class="teach-title">The Role of Skills in Behavioral Political Science</div>
-      <div class="teach-quote">“How what we can do shapes what we do.”</div>
-    </div>
-  </section>
-
-  <section class="teach-card">
-    <h2>BA courses</h2>
-    <div class="teach-item">
-      <div class="teach-title">Methods II: Quantitative Methods</div>
-      <div class="teach-desc">Core training in regression, statistical inference, and applied quantitative analysis.</div>
-    </div>
-    <div class="teach-item">
-      <div class="teach-title">Political Behaviour and Representation</div>
-      <div class="teach-desc">Theories and evidence on attitudes, participation, representation, and political mobilization.</div>
-    </div>
-  </section>
+<div class="teach-list">
+  <div class="teach-entry">
+    <div class="teach-main">Education and Political Behavior</div>
+    <div class="teach-meta">Seminar lecturer · Fall 2021</div>
+  </div>
+  <div class="teach-entry">
+    <div class="teach-main">Advanced Quantitative Methods: Causal Inference</div>
+    <div class="teach-meta">Seminar lecturer · Spring 2024–2025</div>
+  </div>
+  <div class="teach-entry">
+    <div class="teach-main">The Role of Skills in Behavioral Political Science</div>
+    <div class="teach-meta">MA seminar · Fall 2026</div>
+  </div>
 </div>
 
-<section class="teach-supervision">
-  <h2>Thesis supervision (selected topics)</h2>
-  <ul>
-    <li>Prediction models for parliamentary elections</li>
-    <li>Public opinion toward upper secondary education policy</li>
-    <li>Democratic “Bildung” among students in Danish high schools</li>
-    <li>Classroom ethnic composition and pupil performance/well‑being</li>
-  </ul>
-</section>
+**BA courses**
+
+<div class="teach-list">
+  <div class="teach-entry">
+    <div class="teach-main">Methods II: Quantitative Methods</div>
+    <div class="teach-meta">Class teacher · Spring 2021, 2025</div>
+  </div>
+  <div class="teach-entry">
+    <div class="teach-main">Political Behaviour and Representation</div>
+    <div class="teach-meta">Class teacher · Spring 2026</div>
+  </div>
+</div>
+
+**Thesis supervision (selected topics)**
+
+- Prediction models for parliamentary elections
+- Public opinion toward upper secondary education policy
+- Democratic “Bildung” among students in Danish high schools
+- Classroom ethnic composition and pupil performance/well‑being
+
+Department of Political Science, Aarhus University
