@@ -15,9 +15,9 @@ Jeg bidrager gerne til den offentlige samtale. Jeg formidler både mine egne for
 
 {{< rawhtml >}}
 <div class="paper-grid">
-  <div class="paper-card">    <div class="paper-title">Valgforsker i Radio IIII’s valgmorgenshow (2024)</div>
+  <div class="paper-card">    <div class="paper-title">Valgforsker i Radio IIII’s valgmorgen (2024)</div>
 
-    <img class="paper-img" src="/media/radio-iiii.png" alt="Radio IIII valgmorgenshow">
+    <img class="paper-img" src="/media/radio-iiii.png" alt="Radio IIII valgmorgen">
     <div class="paper-meta">Analyse af tidlige stemmetal og valgdeltagelse ved EP‑valget og det amerikanske præsidentvalg.</div>
     <div class="paper-links">
       <a href="https://radio4.dk/podcasts/valg-paa-radio4/ep-valg-p-radio4-vi-stemmer-1-3">EP‑valget</a>
