@@ -24,7 +24,7 @@ enableRobotsTXT = true
     Content = """
 <div class=\"hero-mag\">
   <div>
-    <p class=\"hero-title\">Assistant Professor of Political Science<br>Aarhus University</p>
+    <p class=\"hero-title\">Assistant Professor of Political Science,<br>Aarhus University</p>
     <p>I study how citizens participate in politics and the factors that shape their ability to do so. My work focuses on education and democratic competence, as well as tools and interventions aimed at improving political participation.</p>
     <p class=\"hero-contact\">Email: <a href=\"mailto:avj@ps.au.dk\">avj@ps.au.dk</a></p>
   </div>
@@ -49,6 +49,11 @@ enableRobotsTXT = true
       <div class=\"paper-links\"><a href=\"https://doi.org/10.17645/pag.11277\">Link</a></div>
     </div>
   </div>
+</div>
+
+<div class="home-media">
+  <h2><a href="/media/">Media and Outreach</a></h2>
+  <p>I also participate in public media and talks where I communicate insights from my own studies and from research in elections and voter behavior more generally, to a broader public audience.</p>
 </div>
 """
 
@@ -75,6 +80,12 @@ enableRobotsTXT = true
     name = "Teaching"
     url = "/teaching/"
     weight = 30
+
+  [[menu.main]]
+    identifier = "media"
+    name = "Medier"
+    url = "/media/"
+    weight = 35
 
   [[menu.main]]
     identifier = "cv"
