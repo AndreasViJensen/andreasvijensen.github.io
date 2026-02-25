@@ -13,8 +13,6 @@ Jeg bidrager gerne til den offentlige samtale. Jeg formidler både mine egne for
 
 **Tidligere indspark til debatten**
 
-### Udvalgte eksempler
-
 {{< rawhtml >}}
 <div class="paper-grid">
   <div class="paper-card">    <div class="paper-title">Valgforsker i Radio IIII’s valgmorgenshow (2024)</div>
