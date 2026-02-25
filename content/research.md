@@ -83,7 +83,7 @@ title: "Research"
 
   <div class="paper-card">
     <div class="paper-title">Policy or Polity? Experimental Evidence on Voters’ Information Priorities in European Parliament Elections</div>
-    <div class="paper-meta">Mathias Wessel Tromborg, Roman Senninger, and Andreas Videbæk Jensen</div>
+    <div class="paper-meta"><strong>Working paper</strong> · Mathias Wessel Tromborg, Roman Senninger, and Andreas Videbæk Jensen</div>
     <div class="paper-abstract"><details><summary>Abstract</summary><p>European Parliament (EP) elections are among the world’s largest democratic events, but they are challenging for voters. Campaigns address issues from the future of the polity to specific policies, with the Parliament holding more power over the latter. To understand what information voters need to act in their interest, we examine what they prioritize when accurately informed about the EP’s powers. We use field experimental data from two Voting Advice Applications embedded on a major Danish news site during the 2024 EP election. Users were told that the EP has more influence over policy than polity issues, chose whether to receive advice based on policy or polity preferences, and stated their vote intention before or after receiving advice. Analyzing 66,000 users and a representative survey experiment (n=2,951), we find that citizens prioritize policy over polity information under accurate information. These results have important implications for representation research, media and politicians.</p></details></div>
   </div>
 </div>
