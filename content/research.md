@@ -36,6 +36,12 @@ title: "Research"
 
 <div class="paper-grid">
   <div class="paper-card">
+    <div class="paper-title">Socialization or Status? Disentangling Early-Life Barriers to Immigrant Integration</div>
+    <div class="paper-meta"><strong>Working paper</strong> · with Mathias Kruse</div>
+    <div class="paper-abstract"><details><summary>Abstract</summary><p>Using data on more than 120,000 immigrants and descendants in Denmark, this paper studies early-life barriers to integration. Sibling comparisons and an RDD show that longer exposure to the origin country reduces voting and naturalization, greater parental host-country experience increases both, and immigrant status lowers citizenship acquisition but not turnout.</p></details></div>
+  </div>
+
+  <div class="paper-card">
     <div class="paper-title">From Voice to Vote? Encouraging Voters to Use Their Political Voice Has Positive and Negative Effects on Voter Turnout</div>
     <div class="paper-meta"><strong>Working paper</strong> · with Simon Calmar Andersen</div>
     <div class="paper-abstract"><details><summary>Abstract</summary><p>Evaluates interventions that encourage political voice and assesses their heterogeneous effects on voter turnout.</p></details></div>
