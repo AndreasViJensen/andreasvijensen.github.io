@@ -382,6 +382,14 @@ body {
   padding: 0.2rem 0;
 }
 
+.teach-small .teach-main {
+  font-size: 0.95rem;
+}
+
+.teach-small .teach-meta {
+  font-size: 0.9rem;
+}
+
 @media (max-width: 720px) {
   .teach-entry {
     flex-direction: column;
