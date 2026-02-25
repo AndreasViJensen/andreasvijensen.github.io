@@ -81,8 +81,8 @@ body {
 
 .hero-photo {
   width: 100%;
-  max-width: 360px;
-  height: 360px;
+  max-width: 400px;
+  height: 400px;
   object-fit: cover;
   border-radius: 18px;
   box-shadow: 0 12px 28px rgba(0, 0, 0, 0.18);
@@ -217,8 +217,8 @@ body {
 
   .hero-photo {
     justify-self: start;
-    height: 260px;
-    max-width: 260px;
+    height: 280px;
+    max-width: 280px;
   }
 
   .hero-name {
