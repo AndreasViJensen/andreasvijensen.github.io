@@ -2,7 +2,7 @@
 title: "Teaching"
 ---
 
-I teach across the MA and BA programs, combining substantive political behavior with rigorous research design and quantitative methods.
+I teach across the MA and BA programs on topics that I am passionate about. I try to create a safe and positive atmosphere around the course—a good sense of community and psychological safety in the classroom. Another key element for me in teaching is listening—getting a sense of where each student is at in their learning. I usually have a model of the course learning that we revisit each week, aligned with learning goals.
 
 **MA seminars**
 
