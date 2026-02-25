@@ -241,3 +241,12 @@ body {
     max-width: 280px;
   }
 }
+
+
+.paper-ref-link {
+  box-shadow: none !important;
+}
+
+.paper-ref-link * {
+  text-decoration: none !important;
+}
