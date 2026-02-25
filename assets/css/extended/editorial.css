@@ -271,6 +271,7 @@ body {
 .home-papers .paper-links a {
   border-color: #d6c08b;
   background: #fff7e3;
+  border-radius: 6px;
 }
 
 .nav a {
