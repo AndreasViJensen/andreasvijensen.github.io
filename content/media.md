@@ -1,5 +1,5 @@
 ---
-title: "Medier og Formidling"
+title: "Medier og formidling"
 ---
 
 Jeg bidrager gerne til den offentlige samtale. Jeg formidler både mine egne forskningsresultater og tjener som valgforsker i medierne. Nedenfor finder I eksempler på hvordan jeg tidligere har deltaget i den offentlige debat.
