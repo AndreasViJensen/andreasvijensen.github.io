@@ -81,9 +81,8 @@ title: "Research"
 
   <div class="paper-card">
     <div class="paper-title">Policy or Polity? Experimental Evidence on Voters’ Information Priorities in European Parliament Elections</div>
-    <div class="paper-meta"><strong>Working paper</strong> · OSF preprint (v2)</div>
+    <div class="paper-meta">Mathias Wessel Tromborg, Roman Senninger, and Andreas Videbæk Jensen</div>
     <div class="paper-abstract"><details><summary>Abstract</summary><p>Uses field experimental data from two voting advice applications during the 2024 EP election and a survey experiment to test what information voters prioritize. Under accurate information about EP powers, citizens prioritize policy over polity information, with implications for representation, media, and political communication.</p></details></div>
-    <div class="paper-links">Links: <a href="https://osf.io/preprints/osf/5w9t7_v2">OSF</a></div>
   </div>
 </div>
 
