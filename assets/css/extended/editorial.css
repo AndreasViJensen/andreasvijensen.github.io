@@ -22,6 +22,24 @@ body {
   letter-spacing: 0.1px;
 }
 
+.logo .logo-text {
+  display: block;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: var(--header-height);
+  cursor: default;
+}
+
+.logo .logo-text img,
+.logo .logo-text svg {
+  display: inline;
+  vertical-align: middle;
+  pointer-events: none;
+  transform: translate(0, -10%);
+  border-radius: 6px;
+  margin-inline-end: 8px;
+}
+
 .main,
 .page-content,
 .post-content,
