@@ -2,11 +2,11 @@
 
 :root {
   --main-width: 900px;
-  --card-bg: #f7f7f8;
-  --card-border: #e4e6ea;
+  --card-bg: #ffedd5;
+  --card-border: #fdba74;
   --site-bg: #fff7ed;
-  --panel: #ffffff;
-  --panel-border: #e5e7eb;
+  --panel: #ffedd5;
+  --panel-border: #fdba74;
 }
 
 body {
@@ -126,6 +126,10 @@ body {
   margin-bottom: 0.5rem;
 }
 
+.home-papers .paper-meta {
+  color: #111827;
+}
+
 .paper-abstract {
   margin: 0.45rem 0 0.75rem 0;
   font-size: 0.95rem;
@@ -177,8 +181,4 @@ body {
     height: 260px;
     max-width: 260px;
   }
-}
-
-.home-papers .paper-meta {
-  color: #111827;
 }
