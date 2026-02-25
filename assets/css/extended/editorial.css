@@ -2,6 +2,8 @@
 
 :root {
   --main-width: 860px;
+  --card-bg: #f7f7f8;
+  --card-border: #e4e6ea;
 }
 
 body {
@@ -36,13 +38,46 @@ body {
   line-height: 1.7;
 }
 
-.home-photo {
-  width: 200px;
-  height: 200px;
+.home-info img {
+  width: 220px;
+  height: 220px;
   object-fit: cover;
-  border-radius: 14px;
+  border-radius: 16px;
   display: block;
   margin: 0.25rem 0 1rem 0;
+}
+
+.paper-grid {
+  display: grid;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.paper-card {
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 12px;
+  padding: 1rem 1.1rem;
+}
+
+.paper-title {
+  font-weight: 700;
+  font-size: 1.1rem;
+  margin-bottom: 0.25rem;
+}
+
+.paper-meta {
+  color: #4b5563;
+  font-size: 0.95rem;
+  margin-bottom: 0.5rem;
+}
+
+.paper-abstract {
+  margin: 0.5rem 0 0.75rem 0;
+}
+
+.paper-links a {
+  font-weight: 600;
 }
 
 .nav a {

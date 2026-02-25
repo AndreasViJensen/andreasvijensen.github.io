@@ -21,14 +21,25 @@ enableRobotsTXT = true
   [params.homeInfoParams]
     Title = "Andreas Videbæk Jensen"
     Content = """
-<img class=\"home-photo\" src=\"/img/profile.jpg\" alt=\"Andreas Videbæk Jensen\">
+![Andreas Videbæk Jensen](/img/profile.jpg)
 
 Assistant Professor of Political Science at Aarhus University. My research examines how education shapes political participation and democratic attitudes, using quantitative methods and computational tools.
 
 Email: <a href=\"mailto:avj@ps.au.dk\">avj@ps.au.dk</a>
 """
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
   [[menu.main]]
     identifier = "research"
     name = "Research"
