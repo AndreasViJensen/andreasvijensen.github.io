@@ -15,6 +15,7 @@ Jeg bidrager gerne til den offentlige samtale. Jeg formidler både mine egne for
 
 ### Udvalgte eksempler
 
+{{< rawhtml >}}
 <div class="paper-grid">
   <div class="paper-card">    <div class="paper-title">Valgforsker i Radio IIII’s valgmorgenshow (2024)</div>
 
@@ -37,3 +38,4 @@ Jeg bidrager gerne til den offentlige samtale. Jeg formidler både mine egne for
     <div class="paper-meta">Præsentation om vælgeradfærd i forbindelse med det amerikanske præsidentvalg.</div>
   </div>
 </div>
+{{< /rawhtml >}}
