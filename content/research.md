@@ -26,9 +26,9 @@ title: "Research"
   </div>
 
   <div class="paper-card" id="edu-conjoint">
-    <div class="paper-title">Why Do Voters Prefer Candidates With More Education? Testing the Competence Heuristic and Ingroup Favoritism Using a Number-of-Attributes Conjoint Design</div>
+    <div class="paper-title">Candidate Education and Voting Preferences: How Voters Prefer Politicians Who Share Their Educational Background</div>
     <div class="paper-meta"><strong>Working paper</strong> · with Mathias Kruse</div>
-    <div class="paper-abstract"><details><summary>Abstract</summary><p>Tests whether voters use education as a competence cue or an ingroup signal using conjoint experiments.</p></details></div>
+    <div class="paper-abstract"><details><summary>Abstract</summary><p>We fielded four large-scale survey experiments in Denmark, the UK, and Germany to test whether voters favor candidates with similar educational backgrounds. We find same-group preferences among both higher- and lower-educated voters, partly driven by perceived competence, warmth, and policy appeal.</p></details></div>
   </div>
 </div>
 
