@@ -54,5 +54,3 @@ I teach across the MA and BA programs, combining substantive political behavior 
     <div class="teach-meta">2026</div>
   </div>
 </div>
-
-Department of Political Science, Aarhus University
