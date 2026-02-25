@@ -12,10 +12,24 @@ title: "Research"
 
 <div class="paper-grid">
   <div class="paper-card">
-    <div class="paper-title">Educating for Democracy: Going to College Increases Political Participation</div>
-    <div class="paper-meta">Conditionally accepted, <em>British Journal of Political Science</em></div>
-    <div class="paper-abstract"><strong>Abstract (draft):</strong> Examines whether college attendance increases political participation and explores mechanisms linking education to civic engagement and democratic attitudes.</div>
-    <div class="paper-links">Links: PDF (add) • DOI (add)</div>
+    <div class="paper-title">Educating for Democracy? Going to College Increases Political Participation</div>
+    <div class="paper-meta"><em>British Journal of Political Science</em>, 55, e1 (2025)</div>
+    <div class="paper-abstract"><strong>Abstract (short):</strong> Using two large panel datasets of young US voters and a difference-in-differences design, this paper estimates the effect of college attendance on voter turnout and argues that the evidence supports a positive causal effect.</div>
+    <div class="paper-links">Links: <a href="https://doi.org/10.1017/S0007123424000486">DOI</a> • <a href="https://www.cambridge.org/core/journals/british-journal-of-political-science/article/educating-for-democracy-going-to-college-increases-political-participation/715EA5555038E5DF1F76B1E9AECA10E2">Journal page</a></div>
+  </div>
+
+  <div class="paper-card">
+    <div class="paper-title">Exploring Their Options? Tracking How Voters Actually Use Voting Advice Applications</div>
+    <div class="paper-meta">Jensen, Isotalo, & Tromborg (2026), <em>Politics and Governance</em>, 14</div>
+    <div class="paper-abstract"><strong>Abstract (short):</strong> Abstract pending — please provide the official abstract text to include here.</div>
+    <div class="paper-links">Links: <a href="https://pure.au.dk/portal/da/publications/exploring-their-options-tracking-how-voters-actually-use-voting-a/">Record</a></div>
+  </div>
+
+  <div class="paper-card">
+    <div class="paper-title">Education and Voting: Explaining Differences in Electoral Participation</div>
+    <div class="paper-meta">PhD dissertation (Aarhus University, 2024)</div>
+    <div class="paper-abstract"><strong>Abstract (short):</strong> Examines why lower-educated citizens participate less in elections and evaluates education’s role in sustaining democratic participation using multiple empirical approaches.</div>
+    <div class="paper-links">Links: <a href="https://pure.au.dk/portal/en/publications/education-and-voting-explaining-differences-in-electoral-particip/">Record</a> • <a href="https://politica.dk/politicas-phd-serie/andreas-videbaek-jensen">Publisher page</a></div>
   </div>
 
   <div class="paper-card">
@@ -47,9 +61,9 @@ title: "Research"
   </div>
 
   <div class="paper-card">
-    <div class="paper-title">Comparing Rape Myth Acceptance Among Police Trainees and Medical Students: Preliminary Danish Validation of the Updated Illinois Rape Myth Acceptance Scale</div>
-    <div class="paper-meta">Skov, Van Mastrigt, & Jensen (2021), <em>Violence Against Women</em> 28(11)</div>
-    <div class="paper-abstract"><strong>Abstract (draft):</strong> Compares rape myth acceptance across student groups and provides preliminary Danish validation of the Updated Illinois Rape Myth Acceptance Scale.</div>
-    <div class="paper-links">Links: Publisher (add) • DOI (add)</div>
+    <div class="paper-title">OSF Preprint (title pending)</div>
+    <div class="paper-meta">Working paper (OSF)</div>
+    <div class="paper-abstract"><strong>Abstract (short):</strong> Abstract pending — please provide title and abstract (OSF page requires JS, so I can’t extract it here).</div>
+    <div class="paper-links">Links: <a href="https://osf.io/preprints/osf/5w9t7_v1">OSF</a></div>
   </div>
 </div>
