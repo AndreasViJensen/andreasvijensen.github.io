@@ -2,11 +2,11 @@
 
 :root {
   --main-width: 900px;
-  --card-bg: #ffedd5;
-  --card-border: #fdba74;
-  --site-bg: #fff7ed;
-  --panel: #ffedd5;
-  --panel-border: #fdba74;
+  --site-bg: #fffdf6;
+  --card-bg: #fff3d6;
+  --card-border: #f3d7a6;
+  --panel: #fff3d6;
+  --panel-border: #f3d7a6;
 }
 
 body {
