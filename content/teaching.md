@@ -7,13 +7,20 @@ I teach across the MA and BA programs, combining substantive political behavior 
 <div class="teach-grid">
   <section class="teach-card">
     <h2>MA seminars</h2>
+
     <div class="teach-item">
       <div class="teach-title">Education and Political Behavior</div>
-      <div class="teach-desc">How education shapes participation, attitudes, and inequality; emphasis on causal identification and policy evaluation.</div>
+      <div class="teach-quote">“This seminar asks whether and how education causally shapes political behavior such as turnout and attitudes.”</div>
     </div>
+
     <div class="teach-item">
       <div class="teach-title">Causal Inference</div>
-      <div class="teach-desc">Identification strategies, research design, and the interpretation of causal claims in political science.</div>
+      <div class="teach-quote">“How can we evaluate causal effects when we do not have access to randomized experiments?”</div>
+    </div>
+
+    <div class="teach-item">
+      <div class="teach-title">The Role of Skills in Behavioral Political Science</div>
+      <div class="teach-quote">“How what we can do shapes what we do.”</div>
     </div>
   </section>
 
@@ -26,10 +33,6 @@ I teach across the MA and BA programs, combining substantive political behavior 
     <div class="teach-item">
       <div class="teach-title">Political Behaviour and Representation</div>
       <div class="teach-desc">Theories and evidence on attitudes, participation, representation, and political mobilization.</div>
-    </div>
-    <div class="teach-item">
-      <div class="teach-title">The Role of Skills in Behavioral Political Science (5th semester)</div>
-      <div class="teach-desc">How cognitive and non‑cognitive skills shape social and political outcomes.</div>
     </div>
   </section>
 </div>

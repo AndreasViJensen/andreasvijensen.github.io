@@ -333,3 +333,9 @@ body {
     grid-template-columns: 1fr;
   }
 }
+
+.teach-quote {
+  font-style: italic;
+  color: #374151;
+  margin-top: 0.25rem;
+}
