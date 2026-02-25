@@ -52,6 +52,14 @@ body {
   margin-bottom: 0.35rem;
 }
 
+.home-info .home-subtitle {
+  display: block;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #374151;
+  margin-top: 0.35rem;
+}
+
 .home-info h1::after {
   content: "";
   display: block;
