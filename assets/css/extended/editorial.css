@@ -109,6 +109,14 @@ body {
   margin-top: 0.75rem;
 }
 
+.hero-icons {
+  margin-top: 0.5rem;
+}
+
+.hero-icons a {
+  padding: 6px;
+}
+
 .home-papers {
   margin-top: 2rem;
 }
