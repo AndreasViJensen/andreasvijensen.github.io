@@ -9,9 +9,22 @@
   --panel-border: #f3d7a6;
 }
 
+html,
+body {
+  background: var(--site-bg);
+}
+
 body {
   font-family: "Source Sans 3", system-ui, -apple-system, "Segoe UI", sans-serif;
   letter-spacing: 0.1px;
+}
+
+.main,
+.page-content,
+.post-content,
+.list,
+.post-single,
+.page-header {
   background: var(--site-bg);
 }
 
