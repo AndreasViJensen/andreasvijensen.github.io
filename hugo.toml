@@ -20,11 +20,11 @@ enableRobotsTXT = true
     enabled = false
 
   [params.homeInfoParams]
-    Title = "Andreas Videbæk Jensen"
+    Title = "Andreas Videbæk Jensen — Assistant Professor of Political Science, Aarhus University"
     Content = """
 <div class=\"hero-mag\">
   <div>
-    <p class=\"hero-title\">Assistant Professor of Political Science,<br>Aarhus University</p>
+    <p class=\"hero-title\">About</p>
     <p>I study how citizens participate in politics and the factors that shape their ability to do so. My work focuses on education and democratic competence, as well as tools and interventions aimed at improving political participation.</p>
     <p class=\"hero-contact\">Email: avj [at] ps.au.dk</p>
   </div>
