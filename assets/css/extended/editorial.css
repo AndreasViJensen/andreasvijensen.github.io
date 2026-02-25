@@ -284,3 +284,52 @@ body {
 .page-content ul {
   margin-top: 0.4rem;
 }
+
+/* Teaching split-card layout */
+.teach-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.2rem;
+  margin-top: 1rem;
+  margin-bottom: 1.6rem;
+}
+
+.teach-card {
+  background: var(--selected-box);
+  border: 1px solid var(--selected-border);
+  border-radius: 14px;
+  padding: 1rem 1.1rem;
+}
+
+.teach-card h2 {
+  font-size: 1.25rem;
+  margin-bottom: 0.8rem;
+}
+
+.teach-item + .teach-item {
+  margin-top: 0.8rem;
+  padding-top: 0.8rem;
+  border-top: 1px dashed #e5e7eb;
+}
+
+.teach-title {
+  font-weight: 700;
+}
+
+.teach-desc {
+  color: #4b5563;
+  margin-top: 0.25rem;
+}
+
+.teach-supervision {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 14px;
+  padding: 1rem 1.1rem;
+}
+
+@media (max-width: 900px) {
+  .teach-grid {
+    grid-template-columns: 1fr;
+  }
+}
