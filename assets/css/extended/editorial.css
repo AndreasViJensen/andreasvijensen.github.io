@@ -165,6 +165,10 @@ body {
   border-color: #e2c891;
 }
 
+.paper-ref .paper-title {
+  font-weight: 400;
+}
+
 .home-papers .paper-card {
   background: var(--selected-box);
   border-color: var(--selected-border);
