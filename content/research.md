@@ -2,8 +2,6 @@
 title: "Research"
 ---
 
-**Research focus**
-
 - Education and political participation
 - Political behavior and democratic attitudes
 - Causal inference using quantitative methods and programming
