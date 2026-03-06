@@ -4,7 +4,7 @@ title: "Teaching"
 
 I teach across the MA and BA programs on topics that I am passionate about. I try to create a safe and positive atmosphere around the course—a good sense of community and psychological safety in the classroom. Another key element for me in teaching is listening—getting a sense of where each student is at in their learning. I usually have a model of the course learning that we revisit each week, aligned with learning goals.
 
-**MA seminars**
+## MA seminars
 
 <div class="teach-list">
   <div class="teach-entry">
@@ -21,7 +21,7 @@ I teach across the MA and BA programs on topics that I am passionate about. I tr
   </div>
 </div>
 
-**BA courses**
+## BA courses
 
 <div class="teach-list">
   <div class="teach-entry">
@@ -34,7 +34,7 @@ I teach across the MA and BA programs on topics that I am passionate about. I tr
   </div>
 </div>
 
-**Thesis supervision**
+## Thesis supervision
 
 <div class="teach-list teach-compact teach-small">
   <div class="teach-entry">
