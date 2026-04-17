@@ -4,17 +4,18 @@ title: "Medier og formidling"
 
 Jeg bidrager gerne til den offentlige samtale. Jeg formidler både mine egne forskningsresultater og tjener som valgforsker i medierne. Nedenfor finder I eksempler på hvordan jeg tidligere har deltaget i den offentlige debat.
 
-**Aktuelle emner og ekspertiseområder (Folketingsvalget 2026)**
-
-- Valgkamp og uddannelsespolitik: Hvordan reagerer forskellige vælgergrupper på uddannelsespolitiske tiltag?
-- Valgdeltagelse og indsatser for at øge valgdeltagelsen.
-- Kandidattests: Hvordan bruger vælgerne dem?
-- Vælgernes vilkår og forudsætninger for at udøve deres demokratiske rolle ved valg.
-
 **Tidligere indspark til debatten**
 
 {{< rawhtml >}}
 <div class="paper-grid">
+  <div class="paper-card">
+    <div class="paper-title">Samtale om unge stemmer i den demokratiske offentlighed</div>
+
+    <div class="paper-meta">Samtale om presse- og ytringsfrihed og om betydningen af demokratisk deltagelse blandt unge.</div>
+    <div class="paper-links">
+      <a href="https://www.facebook.com/events/1239903981217881/">Facebook-event</a>
+    </div>
+  </div>
   <div class="paper-card">    <div class="paper-title">Valgforsker i Radio IIII’s valgmorgen (EP‑valget og det amerikanske præsidentvalg, 2024)</div>
 
     <img class="paper-img" src="/media/radio-iiii.png" alt="Radio IIII valgmorgen">
