@@ -11,9 +11,10 @@ Jeg bidrager gerne til den offentlige samtale. Jeg formidler både mine egne for
   <div class="paper-card">
     <div class="paper-title">Samtale om unge stemmer i den demokratiske offentlighed</div>
 
-    <div class="paper-meta">Samtale om presse- og ytringsfrihed og om betydningen af demokratisk deltagelse blandt unge.</div>
+    <img class="paper-img" src="/media/unge-stemmer-demokratiet.jpg" alt="Plakat for samtalen Hvem har ordet? Ytringsfrihed og unge stemmer i demokratiet">
+    <div class="paper-meta">Moderator for samtalen “Hvem har ordet? Ytringsfrihed og unge stemmer i demokratiet” med Nina Palesa Bonde, Estefania Bozzo, Jeppe Bentzen og Lotte Folke. Arrangement på Aarhus Universitet den 15. april 2026, arrangeret af Kandestøberen og Tuborgfondet.</div>
     <div class="paper-links">
-      <a href="https://www.facebook.com/events/1239903981217881/">Facebook-event</a>
+      <a href="https://www.facebook.com/events/1239903981217881/">Info om event</a>
     </div>
   </div>
   <div class="paper-card">    <div class="paper-title">Valgforsker i Radio IIII’s valgmorgen (EP‑valget og det amerikanske præsidentvalg, 2024)</div>
