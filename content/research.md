@@ -90,7 +90,7 @@ title: "Research"
 <div class="paper-grid">
   <div class="paper-card">
     <div class="paper-title">Comparing Rape Myth Acceptance Among Police Trainees and Medical Students: Preliminary Danish Validation of the Updated Illinois Rape Myth Acceptance Scale</div>
-    <div class="paper-meta"><strong>Paper (published)</strong> · <em>Violence Against Women</em>, 28(11) (2021) · with Skov and Van Mastrigt</div>
+    <div class="paper-meta"><strong>Paper (published)</strong> · <em>Violence Against Women</em>, 28(11) (2021) · with Marie Skov and Sarah van Mastrigt</div>
     <div class="paper-actions"><details><summary>Abstract</summary><p>Compares rape myth acceptance across student groups and provides preliminary Danish validation of the Updated Illinois Rape Myth Acceptance Scale.</p></details></div>
   </div>
 </div>
