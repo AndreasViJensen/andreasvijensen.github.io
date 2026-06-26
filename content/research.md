@@ -74,13 +74,13 @@ title: "Research"
 <div class="paper-grid">
   <div class="paper-card">
     <div class="paper-title">Exploring Their Options? Tracking How Voters Actually Use Voting Advice Applications</div>
-    <div class="paper-meta"><strong>Paper (published)</strong> · Jensen, Isotalo, & Tromborg (2026), <em>Politics and Governance</em>, 14</div>
+    <div class="paper-meta"><strong>Paper (published)</strong> · <em>Politics and Governance</em>, 14 (2026) · with Isotalo and Tromborg</div>
     <div class="paper-actions"><details><summary>Abstract</summary><p>Voting advice applications (VAAs) are a widely used tool by voters across democracies. However, we know surprisingly little about how voters actually interact with these tools in practice. Here, we track the objective usage behavior of a consenting and representative sample of voters in an online VAA in Denmark. This enables us to identify the extent to which VAA users explore their positional congruence with more than one of their electoral options as well as how much time they spend doing so. Using this data, we find that a majority of users focus on their own party, but also that a substantial number of users explore other party options and spend significant time doing so. Moreover, these patterns are conditioned by vote choice certainty and political interest. Undecided and uncertain voters are more likely to explore multiple party options, and politically interested users engage with these features as well. The results have important implications for research on VAA effects, which has so far predominantly focused on VAA advice but not on the potential impact of other VAA functionalities. Moreover, the implication for practitioners is that there is a demand for VAA functions that allow users to obtain more nuanced information than merely the voting advice.</p></details><a class="paper-link" href="https://doi.org/10.17645/pag.11277">Link</a></div>
   </div>
 
   <div class="paper-card">
     <div class="paper-title">Policy or Polity? Experimental Evidence on Voters’ Information Priorities in European Parliament Elections</div>
-    <div class="paper-meta"><strong>Paper (forthcoming)</strong> · Mathias Wessel Tromborg, Roman Senninger, and Andreas Videbæk Jensen, <em>Electoral Studies</em></div>
+    <div class="paper-meta"><strong>Paper (forthcoming)</strong> · <em>Electoral Studies</em> · with Mathias Wessel Tromborg and Roman Senninger</div>
     <div class="paper-actions"><details><summary>Abstract</summary><p>European Parliament (EP) elections are among the world’s largest democratic events, but they are challenging for voters. Campaigns address issues from the future of the polity to specific policies, with the Parliament holding more power over the latter. To understand what information voters need to act in their interest, we examine what they prioritize when accurately informed about the EP’s powers. We use field experimental data from two Voting Advice Applications embedded on a major Danish news site during the 2024 EP election. Users were told that the EP has more influence over policy than polity issues, chose whether to receive advice based on policy or polity preferences, and stated their vote intention before or after receiving advice. Analyzing 66,000 users and a representative survey experiment (n=2,951), we find that citizens prioritize policy over polity information under accurate information. These results have important implications for representation research, media and politicians.</p></details><a class="paper-link" href="https://osf.io/preprints/osf/5w9t7_v1">Preprint</a></div>
   </div>
 </div>
@@ -90,7 +90,7 @@ title: "Research"
 <div class="paper-grid">
   <div class="paper-card">
     <div class="paper-title">Comparing Rape Myth Acceptance Among Police Trainees and Medical Students: Preliminary Danish Validation of the Updated Illinois Rape Myth Acceptance Scale</div>
-    <div class="paper-meta"><strong>Paper (published)</strong> · Skov, Van Mastrigt, & Jensen (2021), <em>Violence Against Women</em> 28(11)</div>
+    <div class="paper-meta"><strong>Paper (published)</strong> · <em>Violence Against Women</em>, 28(11) (2021) · with Skov and Van Mastrigt</div>
     <div class="paper-actions"><details><summary>Abstract</summary><p>Compares rape myth acceptance across student groups and provides preliminary Danish validation of the Updated Illinois Rape Myth Acceptance Scale.</p></details></div>
   </div>
 </div>
